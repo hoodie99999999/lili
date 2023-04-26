@@ -1,0 +1,724 @@
+*     
+{
+      margin:0
+      padding:0;
+      box-sizing:border-box;
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+body {
+       width:100%;
+       background-color:lightblue;
+       background-position:center;
+       
+       background-repeat:no-repeat;
+       background-position:center;
+       background-attachment:fixed;
+       background-color:palegoldenrod;
+}
+
+.navbar {
+          width:100%;
+          height:75px;
+          margin:auto;
+          background-color:lightpink;
+        display: flex;
+}
+.icon{
+      width:250px;
+      float:left;
+      height:90px;
+      
+      background-color:hotpink;
+
+     
+
+
+}
+.logo {
+      color:black;
+      font-size: 40px;
+      font-family:Time News Roman;
+      
+      float:left;
+      
+
+
+}
+
+.koko { 
+       padding-top:5000px;
+
+}
+ul {
+      float:right;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+     padding-top: 50px;
+     padding-left: 100px;
+    color:royalblue;
+}
+ul li{ 
+     list-style:none;
+     margin:72px;
+     margin-top:0px;
+     font-size:20px;
+     font-family:Time News Roamn;
+     color:royalblue;
+
+ }
+
+
+ ul li a {
+            text-decoration:none;
+            color:white;
+            font-family: Time News Roman;
+            font-weight:bold;
+            transition:0.1s ease-in-out;
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ }
+ul li a:hover { color:pink; }
+    
+   .rose{
+         width:200px;
+         height:200px;
+         position:absolute;
+         top:70px;
+         right:20px;
+   }
+.awq{
+      font-family:Italic;
+      font-size:30px;
+      color:lightpink;
+      text-align:center;
+}
+.jisoo1{
+         font-family:Arial;
+         font-size:20pt;
+         text-align:center;
+         color:royalblue;
+}
+
+table {
+            border:none;
+            width:100%;
+            height:200px;
+            font-family:Arial;
+            font-size:20px;
+          padding-left:100px;
+
+            }
+
+tr{
+      border:5px solid #dddddd;
+
+      text-align:center;
+
+}
+td{padding-top: 50px;
+  padding-left: 200px;
+
+}
+.pa{
+  padding-left: 50px;
+
+}
+.Lilly{
+      width:180px;
+      height:120px;
+}
+.pq{
+      font-family:Times New Roman;
+      font-size:20px;
+      text-align:center;
+
+      
+}
+.bubu{
+      width:700px;
+      height:400px;
+      padding-left:200px;
+}
+.bubu1{
+      width:700px;
+      height:400px;
+      padding-left:200px;
+}
+
+.pp{
+      font-family:Times New Roman;
+      font-size:25px;
+      font-weight:initial;
+      text-align: justify;
+}
+.kk{  animation-name:kkl;
+      width:500px;
+      height:300px;
+      padding-left: 50;
+
+
+      
+
+}
+.kk1{
+      width:500px;
+      height:300px;
+      padding-left: 50;
+}
+.kk2{
+      width:500px;
+      height:300px;
+      padding-left: 50;
+}
+.qq{
+      font-family:arial;
+      font-size:20px;
+      font-weight:initial;
+      text-align: justify;
+}
+.ww{
+      font-family:arial;
+      font-size:20px;
+      font-weight:initial;
+      text-align: justify;
+}
+.ee{
+      width:700px;
+      height:400px;
+      padding-left:200px;
+}
+.oo{
+      width:800px;
+      height:400px;
+      padding-left:300px;
+}
+.ll{
+      font-family:arial;
+      font-size:20px;
+      font-weight:initial;
+      text-align: justify;
+}
+.cc{
+      font-family:arial;
+      font-size:20px;
+      font-weight:initial;
+      text-align: justify;
+}
+.jj{
+      width:500px;
+      height:300px;
+padding-left: 50;
+
+ 
+}
+.bb{
+      width:500px;
+      height:300px;
+    padding-left: 50;
+
+}
+.hh{
+      width:500px;
+      height:300px;
+ padding-left: 50;
+
+}
+.ff{
+      width:700px;
+      height:400px;
+      padding-left:200px;
+}
+.aa{
+      width:700px;
+      height:400px;
+      padding-left:200px;
+}
+.ss{
+      font-family:arial;
+      font-size:20px;
+      font-weight:initial;
+      text-align: justify;
+}
+.dd{
+      font-family:Times New Roman;
+      font-size:30px;
+      font-weight:initial;
+}
+.cv{
+      font-family:Time News Roman;
+      font-size:20px;
+      text-align:center;
+     background-color:midnightblue;
+      color:peachpuff;
+}
+.aq{
+      font-family:Times New Roman;
+      font-size:30px;
+      font-weight:initial;
+      color:slategray;
+}
+.aqw{
+         width:700px;
+         height:400px;
+         padding-left:200px;
+   }
+.bbq{ 
+     
+     box-shadow:rgba(0, 0, 0, 1);
+     display: grid;
+     grid grid-template-columns:40% 60%;
+ }
+ .eer{
+      
+      font-family:Times New Roman;
+      padding-left:700px;
+      font-size:20px;
+      background-color:lightpink;
+ }
+.ooo{
+  
+      background-color:lightblue;
+      padding-left:700px;
+      background-color:lightpink;
+}
+.heading{
+         font-size:35px;
+         text-transform:uppercase;
+       text-align:center;
+         color:peru;
+}
+
+  
+
+@media(max-width: 1000px){ .navbar {
+          width:100%;
+          height:50px;
+          margin:auto;
+          background-color:lightpink;
+          display: flex;
+        
+}
+.icon{
+      width:100px;
+      float:left;
+      height:60px;
+      
+      background-color:hotpink;
+
+     
+
+
+}
+.logo {
+      color:black;
+      font-size: 20px;
+      font-family:Time News Roman;
+      
+      float:left;
+      
+     
+  
+
+
+}
+.menu {
+        width:700px;
+        float:left;
+        height:70px;
+        padding-top:20px;
+
+}
+.koko { 
+       padding-top:4000px;
+
+}
+ul {
+      float:right;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+       padding-top: 30px;
+     padding-left: 60px;
+    color:royalblue;
+}
+ul li{ 
+     list-style:none;
+     margin:32px;
+     margin-top:0px;
+     font-size:20px;
+     font-family:Time News Roamn;
+     color:royalblue;
+
+ }
+
+
+ ul li a {
+            text-decoration:none;
+            color:white;
+            font-family: Time News Roman;
+            font-weight:bold;
+            transition:0.1s ease-in-out;
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ }
+ul li a:hover { color:pink; }
+    
+   .rose{
+         width:200px;
+         height:200px;
+         position:absolute;
+         top:70px;
+         right:20px;
+   }
+.awq{
+      font-family:Italic;
+      font-size:20px;
+      color:lightpink;
+      text-align:center;
+}
+.jisoo1{
+         font-family:Arial;
+         font-size:10pt;
+         text-align:center;
+         color:royalblue;
+}
+
+table {
+            border:none;
+            width:700px;
+            height:100px;
+            font-family:Arial;
+            font-size:20px;
+          padding-left:100px;
+
+            }
+           td{padding-top: 50px;
+  padding-left: 150px;
+
+}
+.pa{
+  padding-left: 30px;
+
+} 
+.pq{
+  text-align: justify;
+}
+.oo{
+      width:300px;
+      height:100px;
+      padding-left:50px;
+}
+.bbq{ 
+     
+     box-shadow:rgba(0, 0, 0, 1);
+     display: grid;
+     grid grid-template-columns:40% 60%;
+ }
+ .eer{
+      
+      font-family:Times New Roman;
+      padding-left:300px;
+      font-size:10px;
+      background-color:lightpink;
+ }
+.ooo{
+  
+      background-color:lightblue;
+      padding-left:300px;
+      background-color:lightpink;
+}
+.heading{
+         font-size:25px;
+         text-transform:uppercase;
+       text-align:center;
+         color:peru;
+}
+}
+
+
+@media(max-width: 500px){ .navbar {
+          width:100%;
+          height:25px;
+          margin:auto;
+          background-color:lightpink;
+        
+}
+.icon{
+      width:50px;
+      float:left;
+      height:30px;
+      position:absolute;
+      top:0px;
+      left:0px;
+      background-color:hotpink;
+
+     
+
+
+}
+.logo {
+      color:black;
+      font-size: 10px;
+      font-family:Time News Roman;
+      
+      float:left;
+      position:absolute;
+     
+  
+
+
+}
+.menu {
+        width:500px;
+        float:left;
+        height:50px;
+        padding-top:20px;
+
+}
+.koko { 
+       padding-top:2000px;
+
+}
+ul {
+      float:right;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      position:absolute;
+    top:10px;
+    left:50px;
+    color:royalblue;
+}
+ul li{ 
+     list-style:none;
+     margin:32px;
+     margin-top:0px;
+     font-size:10px;
+     font-family:Time News Roamn;
+     color:royalblue;
+
+ }
+
+
+ ul li a {
+            text-decoration:none;
+            color:white;
+            font-family: Time News Roman;
+            font-weight:bold;
+            transition:0.1s ease-in-out;
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ }
+ul li a:hover { color:pink; }
+    
+   .rose{
+         width:200px;
+         height:200px;
+         position:absolute;
+         top:70px;
+         right:20px;
+   }
+.awq{
+      font-family:Italic;
+      font-size:20px;
+      color:lightpink;
+      text-align:center;
+}
+.jisoo1{
+         font-family:Arial;
+         font-size:10pt;
+         text-align:center;
+         color:royalblue;
+}
+
+table {
+            border:none;
+            width:300px;
+            height:50px;
+            font-family:Arial;
+            font-size:10px;
+          padding-left:50px;
+
+            }
+             td{padding-top: 50px;
+  padding-left: 80px;
+
+}
+.pa{
+  padding-left: 20px;
+
+} 
+.oo{
+      width:100px;
+      height:75px;
+      padding-left:25px;
+}
+.bbq{ 
+     
+     box-shadow:rgba(0, 0, 0, 1);
+     display: grid;
+     grid grid-template-columns:40% 60%;
+ }
+ .eer{
+      
+      font-family:Times New Roman;
+      padding-left:100px;
+      font-size:5px;
+      background-color:lightpink;
+ }
+.ooo{
+  
+      background-color:lightblue;
+      padding-left:100px;
+      background-color:lightpink;
+}
+.heading{
+         font-size:15px;
+         text-transform:uppercase;
+       text-align:center;
+         color:peru;
+}
+}
+
+@media(max-width: 300px){ .navbar {
+          width:50%;
+          height:25px;
+          margin:auto;
+          background-color:lightpink;
+        
+}
+.icon{
+      width:100px;
+      float:left;
+      height:100px;
+      position:absolute;
+      top:0px;
+      left:0px;
+      background-color:hotpink;
+
+     
+
+
+}
+.logo {
+      color:black;
+      font-size: 20px;
+      font-family:Time News Roman;
+      
+      float:left;
+      position:absolute;
+     
+  
+
+
+}
+.menu {
+        width:100px;
+        float:left;
+        height:100px;
+        padding-top:10px;
+
+}
+.koko { 
+       padding-top:1000px;
+
+}
+ul {
+      float:right;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      position:absolute;
+    top:15px;
+    left:20px;
+    color:royalblue;
+}
+ul li{ 
+     list-style:none;
+     margin:12px;
+     margin-top:0px;
+     font-size:10px;
+     font-family:Time News Roamn;
+     color:royalblue;
+
+ }
+
+
+ ul li a {
+            text-decoration:none;
+            color:white;
+            font-family: Time News Roman;
+            font-weight:bold;
+            transition:0.1s ease-in-out;
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ }
+ul li a:hover { color:pink; }
+    
+   .rose{
+         width:50px;
+         height:20px;
+         position:absolute;
+         top:10px;
+         right:0px;
+   }
+.awq{
+      font-family:Italic;
+      font-size:10px;
+      color:lightpink;
+      text-align:center;
+}
+.jisoo1{
+         font-family:Arial;
+         font-size:3pt;
+         text-align:center;
+         color:royalblue;
+}
+
+table {
+            border:none;
+            width:30px;
+            height:30px;
+            font-family:Arial;
+            font-size:10px;
+          padding-left:30px;
+
+            }
+.oo{
+      width:100px;
+      height:30px;
+      padding-left:20px;
+}
+.bbq{ 
+     
+     box-shadow:rgba(0, 0, 0, 1);
+     display: grid;
+     grid grid-template-columns:40% 60%;
+ }
+ .eer{
+      
+      font-family:Times New Roman;
+      padding-left:300px;
+      font-size:10px;
+      background-color:lightpink;
+ }
+.ooo{
+  
+      background-color:lightblue;
+      padding-left:100px;
+      background-color:lightpink;
+}
+.heading{
+         font-size:15px;
+         text-transform:uppercase;
+       text-align:center;
+         color:peru;
+}
+}
+address{
+       text-align:center;
+       font-size:30px;
+}
+
